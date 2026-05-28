@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ellen Almeida!
 
 🎓 Estudante de Administração na Estácio
-📍 Curitiba - PR
+📍 Curitiba - PR -> Araucária
 📚 Atualmente no 5º período
 💻 Interessada em tecnologia, análise de dados e automações
 📊 Estudando Power BI, Excel avançado e GitHub
