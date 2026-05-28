@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ellen Almeida!
 
-<!--
-**ellenalmajid2515-tech/ellenalmajid2515-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Administração na Estácio
+📍 Curitiba - PR
+📚 Atualmente no 5º período
+💻 Interessada em tecnologia, análise de dados e automações
+📊 Estudando Power BI, Excel avançado e GitHub
+🌎 Inglês intermediário/avançado
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Estou iniciando minha jornada no GitHub para compartilhar projetos, estudos e aprendizados relacionados à tecnologia, análise de dados e produtividade.
+
+Tenho experiência com:
+
+* Excel avançado
+* Planilhas dinâmicas
+* Fórmulas e automações
+* Atendimento e análise operacional
+* Power BI básico
+
+Atualmente busco evoluir cada vez mais na área de tecnologia e dados, desenvolvendo projetos práticos e aprendendo novas ferramentas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* Excel
+* Power BI
+* GitHub
+* Google Sheets
+* Pacote Office
+
+---
+
+## 📈 Objetivos
+
+* Compartilhar projetos pessoais
+* Aprender mais sobre análise de dados
+* Evoluir em Power BI e automações
+* Criar dashboards e soluções úteis
+
+---
+
+## 📫 Contato
+
+📧 [SeuEmailAqui@example.com](mailto:SeuEmailAqui@example.com)
+💼 LinkedIn: linkedin.com/in/seu-linkedin
+
+---
+
+✨ Obrigada por visitar meu perfil!
